@@ -1,7 +1,7 @@
 {
    "delegacias":[
       {
-          "id": 1
+          "id": 1,
           "latLng": "-22.982371002958317", "-43.21741099952502",
           "nome": "Policia Federal PEP - Leblon",
           "endereco": "R. Prof. Antônio Maria Teixeira, 33 - Leblon, Rio de Janeiro - RJ, 22430-050",
@@ -9,7 +9,7 @@
           "telefone": "2199-9090"
       },
       {
-         "id": 2
+         "id": 2,
           "latLng": "-22.956775720621398", "-43.17522885662832",
           "nome": "Policia Federal - Urca",
           "endereco": "Rua Marechal Ramon Castilla, 25 - Urca, Rio de Janeiro - RJ, 22290-175",
@@ -35,7 +35,7 @@
    ],
    "hospitais":[
       {
-        "id": 1
+        "id": 1,
           "latLng": "-22.977382321015533", "-43.224022013842635",
           "nome": "Hospital Municipal Miguel Couto",
           "endereco":  "Leblon, Rio de Janeiro - RJ, 22793-260",
