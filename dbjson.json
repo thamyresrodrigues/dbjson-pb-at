@@ -2,7 +2,7 @@
    "delegacias":[
       {
           "id": 1,
-          "latLng": "-22.982371002958317", "-43.21741099952502",
+          "latLng": ["-22.982371002958317", "-43.21741099952502"],
           "nome": "Policia Federal PEP - Leblon",
           "endereco": "R. Prof. Antônio Maria Teixeira, 33 - Leblon, Rio de Janeiro - RJ, 22430-050",
           "horario": "24 horas",
@@ -10,7 +10,7 @@
       },
       {
          "id": 2,
-          "latLng": "-22.956775720621398", "-43.17522885662832",
+          "latLng": ["-22.956775720621398", "-43.17522885662832"],
           "nome": "Policia Federal - Urca",
           "endereco": "Rua Marechal Ramon Castilla, 25 - Urca, Rio de Janeiro - RJ, 22290-175",
           "horario":  "08:00h - 17:00",
@@ -18,7 +18,7 @@
       },
       {
          "id":3,
-          "latLng": "-22.91326087628367", "-43.1662384227832",
+          "latLng": ["-22.91326087628367", "-43.1662384227832"],
           "nome":"Policia Federal - Delegacia de imigracao",
           "endereco":  "Praça Sen. Salgado Filho - Centro, Rio de Janeiro - RJ, 20021-340",
           "horario":"08:00h - 17:00h",
@@ -26,7 +26,7 @@
       },
       {
          "id":4,
-          "latLng": "-22.904660103603483", "-43.16942525783122",
+          "latLng": ["-22.904660103603483", "-43.16942525783122"],
           "nome": "Policia Federal - Nepon",
           "endereco": "Praça Mal. Âncora - Centro, Rio de Janeiro - RJ, 20021-200",
           "horario": "24 horas",
@@ -36,7 +36,7 @@
    "hospitais":[
       {
         "id": 1,
-          "latLng": "-22.977382321015533", "-43.224022013842635",
+          "latLng": ["-22.977382321015533", "-43.224022013842635"],
           "nome": "Hospital Municipal Miguel Couto",
           "endereco":  "Leblon, Rio de Janeiro - RJ, 22793-260",
           "horario": "24 horas",
@@ -44,7 +44,7 @@
       },
       {
          "id":2,
-          "latLng": "-22.900619093887563", "-43.27795142280398",
+          "latLng": ["-22.900619093887563", "-43.27795142280398"],
           "nome": "Hospital Municipal Salgado Filho",
           "endereco":  "R. Arquias Cordeiro, 370 - Méier, Rio de Janeiro - RJ, 20770-000",
           "horario": "24 horas",
@@ -52,7 +52,7 @@
       },
       {
          "id":3,
-          "latLng": "-22.86709593589926", "-43.2483362811155",
+          "latLng": ["-22.86709593589926", "-43.2483362811155"],
           "nome": "Hospital Geral de Bonsucesso",
           "endereco":"Av. Londres, 616 - Bonsucesso, Rio de Janeiro - RJ, 21041-020",
           "horario": "24 horas",
@@ -60,7 +60,7 @@
       },
       {
          "id":4,
-          "latLng": "-22.99446009127222", "-43.36252396071194",
+          "latLng": ["-22.99446009127222", "-43.36252396071194"],
           "nome": "Hospital Municipal Lourenço Jorge",
           "endereco":  "Rio de Janeiro - RJ, 22793-260",
           "horario": "24 horas",
