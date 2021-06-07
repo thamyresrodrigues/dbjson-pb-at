@@ -36,7 +36,7 @@
    "hospitais":[
       {
         "id": 1,
-          "coordenada": ["-22.977382321015533", "-43.224022013842635"],
+          "coordenada":{"latLng":["-22.977382321015533", "-43.224022013842635"]},
           "nome": "Hospital Municipal Miguel Couto",
           "endereco":  "Leblon, Rio de Janeiro - RJ, 22793-260",
           "horario": "24 horas",
@@ -44,7 +44,7 @@
       },
       {
          "id":2,
-          "coordenada": ["-22.900619093887563", "-43.27795142280398"],
+          "coordenada":{"latLng":["-22.900619093887563", "-43.27795142280398"]},
           "nome": "Hospital Municipal Salgado Filho",
           "endereco":  "R. Arquias Cordeiro, 370 - Méier, Rio de Janeiro - RJ, 20770-000",
           "horario": "24 horas",
@@ -52,7 +52,7 @@
       },
       {
          "id":3,
-          "coordenada": ["-22.86709593589926", "-43.2483362811155"],
+          "coordenada": {"latLng":["-22.86709593589926", "-43.2483362811155"]},
           "nome": "Hospital Geral de Bonsucesso",
           "endereco":"Av. Londres, 616 - Bonsucesso, Rio de Janeiro - RJ, 21041-020",
           "horario": "24 horas",
@@ -60,7 +60,7 @@
       },
       {
          "id":4,
-          "coordenada": ["-22.99446009127222", "-43.36252396071194"],
+          "coordenada": {"latLng":["-22.99446009127222", "-43.36252396071194"]},
           "nome": "Hospital Municipal Lourenço Jorge",
           "endereco":  "Rio de Janeiro - RJ, 22793-260",
           "horario": "24 horas",
